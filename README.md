@@ -117,26 +117,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ananya020/Ananya020/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ananya020/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ananya020.Ananya020&"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ananya.agra02&theme=rose_pine" alt="Layout with last medium posts"  />
-</div>
-
-###
