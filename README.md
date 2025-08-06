@@ -19,7 +19,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </div>
 
 ## I am Ananya,<br> 
-🚀 Passionate about exploring new technologies and solving real-world problems<br>🎓 Pursuing B.Tech in Computer Science Engineering at SRM Institute of Science and Technology<br>🧠 Currently sharpening my skills in Data Structures, Algorithms, and Full Stack Development<br>🤖 Actively learning and building projects in AI, DSA, and modern web technologies<br>🎨 I love blending creativity with tech — art, music, history, and hackathons keep me inspired<br>🤝 Always open to collaboration, open-source contributions, and meaningful discussions<br>📬 Reach out to me at ananya.agra02@gmail.com<br><br>
+🚀 Passionate about exploring new technologies and solving real-world problems<br>🎓 Pursuing B.Tech in Computer Science Engineering Right Now<br>🧠 Currently sharpening my skills in Data Structures, Algorithms, and Full Stack Development<br>🤖 Actively learning and building projects in AI, DSA, and modern web technologies<br>🎨 I love blending creativity with tech — art, music, history, and hackathons keep me inspired<br>🤝 Always open to collaboration, open-source contributions, and meaningful discussions<br>📬 Reach out to me at ananya.agra02@gmail.com<br><br>
 
 
 ## 🌐 Socials:
